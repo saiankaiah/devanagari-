@@ -1,2 +1,0 @@
-# devanagari-
-Devanagari Character Recognition
